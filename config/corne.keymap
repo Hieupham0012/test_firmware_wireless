@@ -29,7 +29,7 @@
 
             display-name = "default";
             bindings = <
-&kp A  &kp B  &kp C  &kp D  &kp E  &kp F    &kp G  &kp H  &kp J
+&kp A  &kp B  &kp C  &kp D  &kp E  &kp B    &kp G  &kp H  &kp J
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN  C_VOL_UP>;
